@@ -3,7 +3,7 @@ public class DumpFile {
         System.out.println("demo");
         System.out.println("nauajas pakeitimas");
         System.out.println("dar vienas pakeitimas");
-        System.out.println("dar vienas pakeitimas");
+        System.out.println("dar trecias pakeitimas");
 
     }
 }
